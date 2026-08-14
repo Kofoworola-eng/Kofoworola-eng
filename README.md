@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Kofoworola 👋
 
-<!--
-**Kofoworola-eng/Kofoworola-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a business strategist and data analyst currently building my way into **Data Engineering** — learning in public, one commit at a time.
 
-Here are some ideas to get you started:
+By day, I'm the Founder of Clarite Enterprise (business consulting & strategy) and a Data Analysis Business Partner at OPay, working with sales performance data across multiple industries. I'm now expanding that foundation into SQL, Python, and the tools behind data pipelines and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is my working notebook — not a highlight reel. Expect practice files, half-finished experiments, and steady progress rather than polish.
+
+---
+
+**🔧 Currently learning**
+- SQL — joins, subqueries, and query fundamentals
+- Python — core syntax and data handling
+- Git & GitHub workflows (yes, that includes this README)
+
+**🎯 Where I'm headed**
+Transitioning from business operations and analytics into data engineering — with the long-term goal of building and maintaining real data infrastructure, not just analyzing what's already there.
+
+**📌 What's in this profile**
+- `sql-practice` — SQL exercises and notes, organized by topic
+- `python-practice` — Python fundamentals, practiced consistently
+
+**🔗 Find me**
+- LinkedIn: https://www.linkedin.com/in/kofoworola-agbede-56755535a/
+- Currently open to conversations about data, analytics, and the transition into engineering
+
+---
+
+*Updated as I go — if you're on a similar path, feel free to connect.*
