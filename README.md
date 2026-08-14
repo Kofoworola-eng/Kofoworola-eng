@@ -1,4 +1,4 @@
-### Hi, I'm Kofoworola 👋
+### Hi, I'm Kofoworola
 
 I'm a business strategist and data analyst currently building my way into **Data Engineering** — learning in public, one commit at a time.
 
