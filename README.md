@@ -1,6 +1,6 @@
 ### Hi, I'm Kofoworola
 
-I'm a business strategist and data analyst currently building my way into **Data Engineering**. Learning in public, one commit at a time.
+I'm a data analyst currently building my way into **Data Engineering**. Learning in public, one commit at a time.
 
 By day, I'm the Founder of Clarite Enterprise (business consulting & strategy) and a Data Analysis Business Partner at OPay, working with sales performance data across multiple industries. I'm now expanding that foundation into SQL, Python, and the tools behind data pipelines and infrastructure.
 
